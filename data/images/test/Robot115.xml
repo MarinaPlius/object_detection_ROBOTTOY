@@ -1,0 +1,26 @@
+<annotation>
+	<folder>CACAO-CAN</folder>
+	<filename>Robot115.jpg</filename>
+	<path>/Users/marina/Desktop/data/Gnome_photos/CACAO-CAN/Robot115.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gnome</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>247</xmin>
+			<ymin>243</ymin>
+			<xmax>295</xmax>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+</annotation>
