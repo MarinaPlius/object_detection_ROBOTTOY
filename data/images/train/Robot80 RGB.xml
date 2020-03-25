@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Gnome_RGB</folder>
+	<filename>Robot80 RGB.jpg</filename>
+	<path>/Users/marina/Desktop/courses/SaturdaysAI/ROBOTTOY/Gnome_photos/Gnome_RGB/Robot80 RGB.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gnome</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>321</xmin>
+			<ymin>216</ymin>
+			<xmax>371</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>
